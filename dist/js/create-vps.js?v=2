@@ -1,0 +1,39 @@
+$(document).ready(
+    function(){
+        $(function(){
+            $("button[name='submit_button']").click(function(){
+				$("html, body").animate({ scrollTop: 300 }, "slow");
+                $("#response").html('<div class="progress" id="progress"><div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 10%"><span class="sr-only">Loading.....</span></div></div>'),
+                    $(".progress-bar").animate({width:"25%"}),$(".progress-bar").animate({width:"55%"}),
+                    $.ajax({type:"POST",url:"/create-vps-process/",
+                        data:$("form.submit").serialize(),
+                        success:function(a){
+                        $(".progress-bar").animate({width:"70%"}),
+                            $(".progress-bar").animate({width:"100%"}),
+                            $("#response").html(a),
+							 $("#form-submit").hide(1000)
+                        },error:function(){alert("Something wrong !")}
+                    })
+            })
+        });
+		
+$("#datacenter").on('change', function() {
+    if ($(this).val() == 'NAT-SG-1'){
+        $('#os option[value="scientific-7.4"]').remove();
+        $('#os option[value="suse-15.1"]').remove();
+        $('#os option[value="almalinux-8.4"]').remove();
+        $('#os option[value="fedora-34"]').remove();
+        $('#os option[value="rocky-8.4"]').remove();
+        $('#os').append($('<option>', {value:"debian-10", text:'Debian 10'}));
+	}
+	
+    if ($(this).val() == 'EU-OpenVZ'){
+        $('#os option[value="scientific-7.4"]').remove();
+        $('#os option[value="suse-15.1"]').remove();
+        $('#os option[value="almalinux-8.4"]').remove();
+        $('#os option[value="fedora-34"]').remove();
+        $('#os option[value="rocky-8.4"]').remove();
+        $('#os').append($('<option>', {value:"debian-10", text:'Debian 10'}));
+    }
+});	
+});
