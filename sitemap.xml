@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://woiden.id/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://woiden.id/home/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/create-vps/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-renew/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/remove-vps/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-info/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-status/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-control/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-reset-password/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-reinstall/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/login</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/register</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-info</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-status</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-reinstall</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/vps-control</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/terms-of-service</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/disclaimer</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/privacy-policy</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/contact/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/report-abuse/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/login/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/register/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://woiden.id/reset-password/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://woiden.id/terms-of-service/</loc>
+  <lastmod>2022-04-06T15:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
