@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,23 +32,23 @@
                     <a class="nav-link" href="">How to Create a Free VPS</a>
                 </li>					
                 <li class="nav-item">
-                    <a class="nav-link" href="../create-vps/index.html">Create VPS</a>
+                    <a class="nav-link" href="../create-vps/index.php">Create VPS</a>
                 </li>		
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Renew VPS</a>
+                    <a class="nav-link" href="index.php">Renew VPS</a>
                 </li>					
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="index.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         VPS
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="../create-vps/index.html">Create VPS</a>
-                        <a class="dropdown-item" href="../remove-vps/index.html">Remove VPS</a>
-                        <a class="dropdown-item" href="../vps-info/index.html">VPS Info</a>
-                        <a class="dropdown-item" href="../vps-status/index.html">VPS Status</a>
-                        <a class="dropdown-item" href="../vps-control/index.html">VPS Control</a>
-                        <a class="dropdown-item" href="../vps-reset-password/index.html">VPS Password</a>
-                        <a class="dropdown-item" href="../vps-reinstall/index.html">VPS Reinstall</a>
+                        <a class="dropdown-item" href="../create-vps/index.php">Create VPS</a>
+                        <a class="dropdown-item" href="../remove-vps/index.php">Remove VPS</a>
+                        <a class="dropdown-item" href="../vps-info/index.php">VPS Info</a>
+                        <a class="dropdown-item" href="../vps-status/index.php">VPS Status</a>
+                        <a class="dropdown-item" href="../vps-control/index.php">VPS Control</a>
+                        <a class="dropdown-item" href="../vps-reset-password/index.php">VPS Password</a>
+                        <a class="dropdown-item" href="../vps-reinstall/index.php">VPS Reinstall</a>
                         <a class="dropdown-item"  href="index.html">VPS Renew</a>
                     </div>
                 </li>				
@@ -308,3 +309,4 @@
 <script type="text/javascript" src="../dist/js/auth.js"></script><script src="../dist/js/bundle.js"></script>
 </body>
 </html>
+<?php
