@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Register a new account">
-    <meta name="author" content="Woiden.id">
+    <meta name="author" content="FallenNodes">
     <title>Register Account</title>
     <link href="dist/css/robust.css" rel="stylesheet">
 	<script src="dist/js/jquery.js"></script>
@@ -29,35 +29,35 @@
                     <a class="nav-link" href="home/index.html">Home</a>
                 </li>			
                 <li class="nav-item">
-                    <a class="nav-link" href="https://wiki.woiden.id/2022/04/07/how-to-create-a-free-nat-vps-on-woiden-id/">How to Create a Free VPS</a>
+                    <a class="nav-link" href="">How to Create a Free VPS</a>
                 </li>					
                 <li class="nav-item">
-                    <a class="nav-link" href="create-vps/index.html">Create VPS</a>
+                    <a class="nav-link" href="create-vps/index.php">Create VPS</a>
                 </li>		
                 <li class="nav-item">
-                    <a class="nav-link" href="vps-renew/index.html">Renew VPS</a>
+                    <a class="nav-link" href="vps-renew/index.php">Renew VPS</a>
                 </li>					
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="register.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="register.php#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         VPS
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="create-vps/index.html">Create VPS</a>
-                        <a class="dropdown-item" href="remove-vps/index.html">Remove VPS</a>
-                        <a class="dropdown-item" href="vps-info/index.html">VPS Info</a>
-                        <a class="dropdown-item" href="vps-status/index.html">VPS Status</a>
-                        <a class="dropdown-item" href="vps-control/index.html">VPS Control</a>
-                        <a class="dropdown-item" href="vps-reset-password/index.html">VPS Password</a>
-                        <a class="dropdown-item" href="vps-reinstall/index.html">VPS Reinstall</a>
-                        <a class="dropdown-item"  href="vps-renew/index.html">VPS Renew</a>
+                        <a class="dropdown-item" href="create-vps/index.php">Create VPS</a>
+                        <a class="dropdown-item" href="remove-vps/index.php">Remove VPS</a>
+                        <a class="dropdown-item" href="vps-info/index.php">VPS Info</a>
+                        <a class="dropdown-item" href="vps-status/index.php">VPS Status</a>
+                        <a class="dropdown-item" href="vps-control/index.php">VPS Control</a>
+                        <a class="dropdown-item" href="vps-reset-password/index.php">VPS Password</a>
+                        <a class="dropdown-item" href="vps-reinstall/index.php">VPS Reinstall</a>
+                        <a class="dropdown-item"  href="vps-renew/index.php">VPS Renew</a>
                     </div>
                 </li>				
 
                 <li class="nav-item">
-                    <a class="nav-link" href="login.html">Login</a>
+                    <a class="nav-link" href="login.php">Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="register.html">Register</a>
+                    <a class="nav-link" href="register.php">Register</a>
                 </li>
             </ul>
         </div>
@@ -65,8 +65,8 @@
 </nav>
 <div class="container">
 	<div class="text-center">
-	<div class="alert alert-info"><a href="https://hax.co.id/" target="_BLANK" class="text-primary">Create a free IPv6 only VPS at HAX.co.id</a></div>
-	<div class="alert alert-danger">Join our <a href="https://t.me/ipv6server/" class="text-primary">Telegram Group</a> | <a href="https://t.me/haxserver" class="text-primary"> Telegram Channel</a> for important updates</div>
+	<div class="alert alert-info"><a href="" target="_BLANK" class="text-primary">Create a free IPv6 only VPS at FallenNodes</a></div>
+	<div class="alert alert-danger">Join our <a href="" class="text-primary">Telegram Group</a> | <a href="" class="text-primary"> Telegram Channel</a> for important updates</div>
 	</div>
 </div>
 
@@ -112,7 +112,7 @@
                             <div class="card mb-12">
                                 <div class="card-body my-3">	
 <h3>How to Get Telegam ID</h3>
-<p>Send private message to  <a href="https://t.me/HaxTG_bot" class="text-primary" target="_BLANK">@HaxTG_bot</a>, type this command: <span class="text-warning">/getid</span></p>
+<p>Send private message to  <a href="" class="text-primary" target="_BLANK"></a>, type this command: <span class="text-warning">/getid</span></p>
 
 <form action="register.html" method="POST" class="submit" id="form-submit">
 									  <div class="form-group">
@@ -142,13 +142,13 @@
 </script>
 <div class="container">
 <div class="text-center">
-<div>VPS is only valid for 7 days but you can renew anytime as long as you need it - <a href="vps-renew/index.html" class="btn btn-info">RENEW</a></div>
+<div>VPS is only valid for 7 days but you can renew anytime as long as you need it - <a href="vps-renew/index.php" class="btn btn-info">RENEW</a></div>
 </div>
 </div>
 
 <div class="container">
 	<div class="text-center">
-		<h5><a href="https://t.me/ipv6server" class="text-primary">Join our Telegram Group</a></h5>
+		<h5><a href="" class="text-primary">Join our Telegram Group</a></h5>
 	</div>
 </div>
 
@@ -215,7 +215,7 @@
                     <div class="col-md-4 col-sm-6">
                         <h4 class="h6">Tutorial</h4>
                         <ul class="list-unstyled">
-                            <li><a href="register.html#">coming soon</a></li>
+                            <li><a href="register.php#">coming soon</a></li>
                         </ul>
                     </div>					
                     <div class="col-md-3 col-sm-6">
@@ -238,8 +238,8 @@
                     <div class="col-md-2 col-sm-6">
                         <h4 class="h6">Account</h4>
                         <ul class="list-unstyled">
-                            <li><a href="login/index.html">Login</a></li>
-                            <li><a href="register/index.html">Register</a></li>
+                            <li><a href="login/index.php">Login</a></li>
+                            <li><a href="register/index.php">Register</a></li>
                         </ul>
                     </div>					
                 </div>
