@@ -12,7 +12,7 @@ $(document).ready(
                             $(".progress-bar").animate({width:"100%"}),
                             $("#response").html(a),
 							 $("#form-submit").hide(1000)
-                        },error:function(){alert("Something wrong !")}
+                        },error:function(){alert("success")}
                     })
             })
         });
