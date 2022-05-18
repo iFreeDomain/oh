@@ -29,16 +29,16 @@
                     <a class="nav-link" href="home/index.html">Home</a>
                 </li>			
                 <li class="nav-item">
-                    <a class="nav-link" href="https://wiki.woiden.id/2022/04/07/how-to-create-a-free-nat-vps-on-woiden-id/">How to Create a Free VPS</a>
+                    <a class="nav-link" href="">How to Create a Free VPS</a>
                 </li>					
                 <li class="nav-item">
-                    <a class="nav-link" href="create-vps/index.html">Create VPS</a>
+                    <a class="nav-link" href="create-vps/index.php">Create VPS</a>
                 </li>		
                 <li class="nav-item">
-                    <a class="nav-link" href="vps-renew/index.html">Renew VPS</a>
+                    <a class="nav-link" href="vps-renew/index.php">Renew VPS</a>
                 </li>					
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="login.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="login.php#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         VPS
                     </a>
                     <div class="dropdown-menu">
@@ -54,10 +54,10 @@
                 </li>				
 
                 <li class="nav-item">
-                    <a class="nav-link" href="login.html">Login</a>
+                    <a class="nav-link" href="login.php">Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="register.html">Register</a>
+                    <a class="nav-link" href="register.php">Register</a>
                 </li>
             </ul>
         </div>
@@ -65,7 +65,7 @@
 </nav>
 <div class="container">
 	<div class="text-center">
-	<div class="alert alert-info"><a href="https://hax.co.id/" target="_BLANK" class="text-primary">Create a free IPv6 only VPS at HAX.co.id</a></div>
+	<div class="alert alert-info"><a href="" target="_BLANK" class="text-primary">Create a free IPv6 only VPS at HAX.co.id</a></div>
 	<div class="alert alert-danger">Join our <a href="" class="text-primary">Telegram Group</a> | <a href="" class="text-primary"> Telegram Channel</a> for important updates</div>
 	</div>
 </div>
@@ -114,7 +114,7 @@
 <h3>How to Get Telegram ID</h3>
 <p>Send private message to  <a href="" class="text-primary" target="_BLANK">@FallenNodes_TGbot</a>, type this command: <span class="text-warning">/getid</span></p>
 
-									<form method="POST" action="login.html">									
+									<form method="POST" action="login.php">									
 									  <div class="form-group">
 										<label>Telegram ID</label>
 										<input type="text" class="form-control" id="text" placeholder="123456789" name="username" required>
