@@ -49,7 +49,7 @@
                         <a class="dropdown-item" href="../vps-control/index.php">VPS Control</a>
                         <a class="dropdown-item" href="../vps-reset-password/index.php">VPS Password</a>
                         <a class="dropdown-item" href="../vps-reinstall/index.php">VPS Reinstall</a>
-                        <a class="dropdown-item"  href="index.html">VPS Renew</a>
+                        <a class="dropdown-item"  href="index.php">VPS Renew</a>
                     </div>
                 </li>				
 
