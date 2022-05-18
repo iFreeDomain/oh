@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -249,7 +250,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center text-sm">
-                <p class="mb-0">&copy; 2022 - <a href="index.html">NAT VPS</a></p>
+                <p class="mb-0">&copy; 2022 - <a href="index.php">NAT VPS</a></p>
             </div>
         </div>
     </div>
@@ -257,3 +258,4 @@
 <script type="text/javascript" src="dist/js/auth.js"></script><script src="dist/js/bundle.js"></script>
 </body>
 </html>
+?>
