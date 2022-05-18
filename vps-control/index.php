@@ -283,4 +283,4 @@
 <script type="text/javascript" src="../dist/js/auth.js"></script><script src="../dist/js/bundle.js"></script>
 </body>
 </html>
-<?php
+?>
