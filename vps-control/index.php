@@ -32,10 +32,10 @@
                     <a class="nav-link" href="">How to Create a Free VPS</a>
                 </li>					
                 <li class="nav-item">
-                    <a class="nav-link" href="../create-vps/index.html">Create VPS</a>
+                    <a class="nav-link" href="../create-vps/index.php">Create VPS</a>
                 </li>		
                 <li class="nav-item">
-                    <a class="nav-link" href="../vps-renew/index.html">Renew VPS</a>
+                    <a class="nav-link" href="../vps-renew/index.php">Renew VPS</a>
                 </li>					
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="index.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -54,10 +54,10 @@
                 </li>				
 
                 <li class="nav-item">
-                    <a class="nav-link" href="../login.html">Login</a>
+                    <a class="nav-link" href="../login.php">Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../register.html">Register</a>
+                    <a class="nav-link" href="../register.php">Register</a>
                 </li>
             </ul>
         </div>
